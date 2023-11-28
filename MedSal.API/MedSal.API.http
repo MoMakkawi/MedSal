@@ -1,0 +1,6 @@
+@MedSal.API_HostAddress = http://localhost:5214
+
+GET {{MedSal.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
